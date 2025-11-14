@@ -1,3 +1,5 @@
+d42aafe Task 2.4: Split loops and extract getTotalAmount and getTotalVolumeCredits
+9e698e9 Task 2.3: Update log.txt
 fadbc67 Task 2.3: Inline frmt and extract usd helper for formatting
 62e3b0b Task 2.2: Update log.txt
 b75f711 Task 2.2: Extract getVolumeCredits helper and simplify volume credit calculation
