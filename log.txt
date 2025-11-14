@@ -1,3 +1,5 @@
+fadbc67 Task 2.3: Inline frmt and extract usd helper for formatting
+62e3b0b Task 2.2: Update log.txt
 b75f711 Task 2.2: Extract getVolumeCredits helper and simplify volume credit calculation
 1b0ec1f Task 2.1: Update log.txt
 ba951a1 Task 2.1: Extract getAmount and simplify logic
