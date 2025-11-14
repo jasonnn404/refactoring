@@ -1,3 +1,5 @@
+b75f711 Task 2.2: Extract getVolumeCredits helper and simplify volume credit calculation
+1b0ec1f Task 2.1: Update log.txt
 ba951a1 Task 2.1: Extract getAmount and simplify logic
 e8cba6e Task 1.2: added git log summary
 8779092 Task 1.1: fixed all CheckStyle issues in src/main/java
