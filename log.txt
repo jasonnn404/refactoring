@@ -1,3 +1,4 @@
+ba951a1 Task 2.1: Extract getAmount and simplify logic
 e8cba6e Task 1.2: added git log summary
 8779092 Task 1.1: fixed all CheckStyle issues in src/main/java
 9f0c270 Initial commit
